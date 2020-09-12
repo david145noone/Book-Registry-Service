@@ -1,8 +1,8 @@
 # Book Registry Service
 
-## Technologies Implemented
-
-![Python](https://img.shields.io/badge/Python-3.6-blue)
+![Docker](https://img.shields.io/badge/Docker-blue) 
+![Python](https://img.shields.io/badge/Python-3.4-blue)
+![Flask](https://img.shields.io/badge/Flask-1.0.2-blue) 
 
 ## Usage
 
