@@ -1,5 +1,10 @@
 # Book Registry Service
 
+## Technologies Implemented
+
+![Python 3](https://img1.pnghut.com/18/3/10/eHD3bKuRkj/symbol-computer-science-rectangle-highlevel-programming-language-logo.jpg)
+![Docker](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png)
+
 ## Usage
 
 All responses will have the form
