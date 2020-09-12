@@ -2,7 +2,7 @@
 
 ## Technologies Implemented
 
-![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)]
+![Python](https://img.shields.io/badge/Python-3.6-blue)
 
 ## Usage
 
